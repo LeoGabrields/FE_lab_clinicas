@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:fe_lab_clinicas_core/src/constants/local_storage_constants.dart';
+import 'package:lab_clinicas_core/lab_clinicas_core.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 final class AuthInterceptor extends Interceptor {
