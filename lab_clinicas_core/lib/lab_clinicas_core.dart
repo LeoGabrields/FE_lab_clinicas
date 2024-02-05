@@ -1,9 +1,10 @@
 library lab_clinicas_core;
 
-export 'src/fp/either.dart';
-export 'src/fp/nil.dart';
-export 'src/fp/unit.dart';
-export 'src/helpers/messages.dart';
-export 'src/restClient/rest_client.dart';
-export 'src/constants/local_storage_constants.dart';
 export 'src/lab_clinicas_core_config.dart';
+export 'src/fp/fp.dart';
+export 'src/helpers/helpers.dart';
+export 'src/restClient/rest_client.dart';
+export 'src/constants/constants.dart';
+export 'src/exceptions/exceptions.dart';
+export 'src/theme/lab_clinicas_theme.dart';
+export 'src/widgets/widgets.dart';
